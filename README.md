@@ -1,21 +1,25 @@
 # 2025-SP-101-hw2-ykydh
 
 ## How to Run the Program
+1. Clone the repo
+   ```bash
+   git clone git@github.com:ykydh/File-system.git
+   ``` 
 
-1. Open a terminal and **navigate to the root directory** of the project:  
+2. Open a terminal and **navigate to the root directory** of the project:  
    `2025-SP-101-hw2-ykydh`
 
-2. **Compile the program** by running:  
+3. **Compile the program** by running:  
    ```bash
    make
    ```
 
-3. **Change to the build directory**:  
+4. **Change to the build directory**:  
    ```bash
    cd build
    ```
 
-4. **Run the executable**:  
+5. **Run the executable**:  
    ```bash
    ./Files
    ```
