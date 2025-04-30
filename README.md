@@ -49,7 +49,8 @@
   rm: rm <filename> to remove a file
   
   mv: mv <path from the root> to move a file or directory
-  Ex:Move main.cpp from Root/User/Downloads to Root/User/Docs mv main.cpp User/Docs
+  Ex:Move main.cpp from Root/User/Downloads to Root/User/Docsmv main.cpp User/Docs
+  
   nano: nano <filename> to create or edit a file
   
   rmdir: rmdir <directoryname> to remove a directory
