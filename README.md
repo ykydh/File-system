@@ -34,5 +34,18 @@
   ```
   help
   ```
-  to view a list of available commands and their parameters.
-"""
+  to view a help.
+
+- Available Commands and Its parameters
+  ```bash
+  cd: cd <subdirectory or ../>
+  ls: ls for normal listing or ls -l for details
+  pwd: pwd for displaying current directory's path
+  mkdir: mkdir <name> to make a new directory
+  rm: rm <filename> to remove a file
+  mv: mv <path from the root> to move a file or directory
+  Ex:Move main.cpp from Root/User/Downloads to Root/User/Docs mv main.cpp User/Docs
+  nano: nano <filename> to create or edit a file
+  rmdir: rmdir <directoryname> to remove a directory
+  exit: exit to stop running this program
+  ``` 
