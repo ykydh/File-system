@@ -70,7 +70,7 @@ command command_handler(std::string x)
       return command::pwd;
     if(x=="mkdir")
       return command::mkdir;
-    if(x=="rm -r")
+    if(x=="rm")
       return command::rm;
     if(x=="mv")
       return command::mv;

@@ -3,7 +3,8 @@
 #include<vector>
 #include<string>
 #include<iostream>
-
+#include<memory>
+#include<algorithm>
 enum command{null,cd,ls,pwd,mkdir,rm,mv,nano,rmdir,quit,help};
 
 class File{
